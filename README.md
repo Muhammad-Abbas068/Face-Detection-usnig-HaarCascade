@@ -1,2 +1,2 @@
-# Face-Detection-usnig-HaarCascade
+# Computer Vision Projects 
 Its a repo where you can find computer vision projects...
